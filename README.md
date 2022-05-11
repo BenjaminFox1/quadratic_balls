@@ -4,7 +4,7 @@ I wanted to begin documenting some basic ideas and concepts related to my Comput
 
 A number of [random balls](https://benjaminfox1.github.io/quadratic_balls/) falling using a very basic quadratic equation.
 
-<details><summary>Code</summary>
+<details><summary>Code Below</summary>
 <p>
   
  ``` javascript
@@ -72,11 +72,5 @@ function draw() {
 }
 ```
 
-#### We can hide anything, even code!
-
-
-
 </p>
 </details>
-
-
